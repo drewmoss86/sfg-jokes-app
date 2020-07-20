@@ -1,4 +1,4 @@
-package guru.springframework.chucknorrisforactuator;
+package guru.springframework.sfgjokesapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
